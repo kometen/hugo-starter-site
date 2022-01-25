@@ -3,3 +3,23 @@ title = 'My New Hugo Site'
 author = "Claus Guttesen"
 description = "Kald mig Claus"
 profilePicture = "static/profile-pic.png"
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
+  [[menu.main]]
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/about/"
