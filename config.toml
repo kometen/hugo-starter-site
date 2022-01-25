@@ -1,0 +1,5 @@
+[params]
+title = 'My New Hugo Site'
+author = "Claus Guttesen"
+description = "Kald mig Claus"
+profilePicture = "static/profile-pic.png"
