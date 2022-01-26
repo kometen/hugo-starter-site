@@ -41,7 +41,7 @@ enableRobotsTXT = true
   name = "Posts"
   weight = 200
   identifier = "post"
-  url = "/post/"
+  url = "/posts/"
 
   [[menu.main]]
   name = "About"
