@@ -5,19 +5,7 @@
     <link>https://example.com/</link>
     <description>Recent content on Home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 26 Jan 2022 19:28:11 +0100</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Min næste artikel</title>
-      <link>https://example.com/post/artikel-nr-to/</link>
-      <pubDate>Wed, 26 Jan 2022 19:28:11 +0100</pubDate>
-      
-      <guid>https://example.com/post/artikel-nr-to/</guid>
-      
-        <description>Dette er min anden artikel skrevet med Hugo. Nu har jeg fået lagt ikoner til Twitter og Github til, et billede.</description>
-      
-    </item>
-    
+    <language>en</language><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://example.com/about/</link>
@@ -26,17 +14,6 @@
       <guid>https://example.com/about/</guid>
       
         <description>Jeg hedder Claus Guttesen, lærer om webside-værktøjet Hugo. Der er mange ting som man kan.</description>
-      
-    </item>
-    
-    <item>
-      <title>Hej Med Dig</title>
-      <link>https://example.com/post/hej-med-dig/</link>
-      <pubDate>Tue, 25 Jan 2022 23:41:11 +0100</pubDate>
-      
-      <guid>https://example.com/post/hej-med-dig/</guid>
-      
-        <description>Dette er min første artikel skrevet med Hugo.</description>
       
     </item>
     

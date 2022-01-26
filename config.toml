@@ -19,7 +19,6 @@ enableRobotsTXT = true
   description = "Kald mig Claus"
   profilePicture = "profile-pic.png"
   doNotLoadAnimations = true # Animations are loaded by default
-#  mainSections = []
 
 [[params.socialIcons]]
   icon = "fab fa-github"
