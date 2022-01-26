@@ -1,8 +1,34 @@
+baseURL = "https://example.com"
+languageCode = "en"
+DefaultContentLanguage = "en"
+title = "Home"
+
+# theme as hugo module
+#theme = "github.com/lxndrblz/anatole"
+# theme as git submodule
+theme = "anatole"
+
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+
 [params]
-title = 'My New Hugo Site'
-author = "Claus Guttesen"
-description = "Kald mig Claus"
-profilePicture = "static/profile-pic.png"
+  title = "Claus Guttesen"
+  theme = "anatole"
+  author = "Claus Guttesen"
+  description = "Kald mig Claus"
+  profilePicture = "profile-pic.png"
+  doNotLoadAnimations = true # Animations are loaded by default
+#  mainSections = []
+
+[[params.socialIcons]]
+  icon = "fab fa-github"
+  title = "GitHub"
+  url = "https://github.com/kometen/"
+[[params.socialIcons]]
+  icon = "fab fa-twitter"
+  title = "Twitter"
+  url = "https://twitter.com/kometen/"
 
 [menu]
 
