@@ -29,6 +29,10 @@ enableRobotsTXT = true
   icon = "fab fa-twitter"
   title = "Twitter"
   url = "https://twitter.com/kometen/"
+[[params.socialIcons]]
+  icon = "fab fa-stack-overflow"
+  title = "StackOverflow"
+  url = "https://stackoverflow.com/users/319826/kometen/"
 
 [menu]
 
