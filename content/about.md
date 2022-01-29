@@ -15,4 +15,6 @@ I fritiden kan jeg lide at holde mig i aktivitet. Går på langsrendski (skøjte
 når der er sne. Løber og går tur resten af året. De fleste aktiviteter sker i umiddelbar
 nærhed af hvor jeg bor.
 
-![Skitur i solen](/images/IMG_1364.JPG "Skitur i solen")
+😎
+
+![Skitur i solen](/images/IMG_1365.JPG "Skitur i solen")
