@@ -1,7 +1,7 @@
 ---
 title: "Sommerferie 2021"
 date: 2022-01-29T10:47:23+01:00
-draft: true
+draft: false
 ---
 
 Sommeren 2021 var jeg ude og se [Møns Klint](https://moensklint.dk/). Det var en tur som min nærmeste
