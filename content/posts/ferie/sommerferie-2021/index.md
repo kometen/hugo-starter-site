@@ -15,34 +15,34 @@ består af kalksten som giver nogle meget bratte partier. Der er et rigt dyreliv
 
 #### Det er mulig at gå helt ud til kanten, men vær forsigtig. Her står træet fint og rank.
 
-![Nyder udsigten](IMG_1723.jpeg "Træerne bider sig fast")
+![Nyder udsigten](/images/IMG_1723.jpeg "Træerne bider sig fast")
 
 
 #### Men nogle gange må træet på et eller andet tidspunkt give tabt.
 
-![Erosionen fjerner grundlaget](IMG_1702.jpeg "Men træet må give tabt på et tidspunkt")
+![Erosionen fjerner grundlaget](/images/IMG_1702.jpeg "Men træet må give tabt på et tidspunkt")
 
 
 #### Man ser hvordan vejret bidrager til erosionen og skaber nye former. Og aner menneskerne nede på stranden. Og sejlbåde.
 
-![Bratte partier nedbrudt af vejret](IMG_1720.jpeg "Bratte partier")
+![Bratte partier nedbrudt af vejret](/images/IMG_1720.jpeg "Bratte partier")
 
 
 #### Ser I ansigtet?
 
-![Vi ser ansigter i mange former](IMG_1722.jpeg "Stenansigt")
+![Vi ser ansigter i mange former](/images/IMG_1722.jpeg "Stenansigt")
 
 
 #### Der findes mange trapper som fører ned til stranden.
 
-![Trapper fører ned til stranden](IMG_1707.jpeg "Gode muligheder for at komme ned til stranden")
+![Trapper fører ned til stranden](/images/IMG_1707.jpeg "Gode muligheder for at komme ned til stranden")
 
 
 #### På stranden kan man se erosionen skaber flotte formationer.
 
-![Flotte formationer](IMG_1710.jpeg "Erosion")
+![Flotte formationer](/images/IMG_1710.jpeg "Erosion")
 
 
 #### Nogle træer overlever erosionen.
 
-![Døde træer](IMG_1683.jpeg "Døde træer")
+![Døde træer](/images/IMG_1683.jpeg "Døde træer")
