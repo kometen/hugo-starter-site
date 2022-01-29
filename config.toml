@@ -1,7 +1,6 @@
-baseURL = "https://hugo.gnome.no"
+baseURL = "https://gnome.no"
 languageCode = "en"
-DefaultContentLanguage = "en"
-title = "Home"
+#title = "Home"
 
 # theme as hugo module
 #theme = "github.com/lxndrblz/anatole"
@@ -34,37 +33,14 @@ enableRobotsTXT = true
   title = "StackOverflow"
   url = "https://stackoverflow.com/users/319826/kometen/"
 
-[menu]
-
-  [[menu.main]]
-  name = "Home"
-  identifier = "home"
-  weight = 100
-  url = "/"
-
-  [[menu.main]]
-  name = "Posts"
-  weight = 200
-  identifier = "posts"
-  url = "/posts/"
-
-  [[menu.main]]
-  name = "About"
-  weight = 300
-  identifier = "about"
-  url = "/about/"
+IsMultiLingual = true
+DefaultContentLanguage = "dk"
 
 [languages]
-  [languages.en]
-  title = "My blog"
-  description = "I am Claus"
-  weight = 1
-  LanguageName = "English 🇬🇧"
-
   [languages.dk]
   title = "Min blog"
   description = "Kald mig Claus"
-  weight = 2
+  weight = 1
   LanguageName = "Dansk 🇩🇰"
 
   [[languages.dk.menu.main]]
@@ -84,4 +60,28 @@ enableRobotsTXT = true
   identifier = "about"
   weight = 300
   url = "/dk/about/"
+
+  [languages.en]
+  title = "My blog"
+  description = "I am Claus"
+  weight = 2
+  LanguageName = "English 🇬🇧"
+
+  [[languages.en.menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[languages.en.menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/posts/"
+
+  [[languages.en.menu.main]]
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/about/"
 
