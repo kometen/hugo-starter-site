@@ -1,19 +1,18 @@
 ---
-title: "Om mig"
+title: "About"
 date: 2022-01-26T18:41:23+01:00
 draft: false
 ---
 
-Jeg hedder Claus Guttesen, bor ved Sandane i Gloppen kommune. Jeg jobber som programmør i
-Digitaliseringsdirekoratet, hvor Java er en væsentlig del af dette. Derudover opgaver inden for
-database, PostgresSQL er en kær favorit. Så kommer der noget Elasticsearch, og putte kode i kontainere.
+My name is Claus Guttesen, live near a small town called Sandane in the western part of Norway. I work
+as a developer at The Norwegian Digitalisation Agency, where Java is an essential part. I also work with
+databases where PostgreSQL is a favourite. Then some Elasticsearch, and place code into containers.
 
-Tidligere har jeg jobbet med UNIX-administration, netværks-design, automatisering af
-manuelle rutiner, scripts i shell, Ruby, Perl, C, C++, Javascript.
+In previous positions I worked as a UNIX-admin, network-design, automating manual tasks, shell-scripting,
+Ruby, Perl, C, C++, Javascript.
 
-I fritiden kan jeg lide at holde mig i aktivitet. Går på langsrendski (skøjte) om vinteren,
-når der er sne. Løber og går tur resten af året. De fleste aktiviteter sker i umiddelbar
-nærhed af hvor jeg bor.
+I like to excercise in my sparetime. Cross-country (skating) during the winter if we have snow. Run and
+walk outside winter.
 
 😎
 

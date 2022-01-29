@@ -45,7 +45,7 @@ enableRobotsTXT = true
   [[menu.main]]
   name = "Posts"
   weight = 200
-  identifier = "post"
+  identifier = "posts"
   url = "/posts/"
 
   [[menu.main]]
@@ -53,3 +53,35 @@ enableRobotsTXT = true
   weight = 300
   identifier = "about"
   url = "/about/"
+
+[languages]
+  [languages.en]
+  title = "My blog"
+  description = "I am Claus"
+  weight = 1
+  LanguageName = "English 🇬🇧"
+
+  [languages.dk]
+  title = "Min blog"
+  description = "Kald mig Claus"
+  weight = 2
+  LanguageName = "Dansk 🇩🇰"
+
+  [[languages.dk.menu.main]]
+  name = "Hjem"
+  identifier = "home"
+  weight = 100
+  url = "/dk/"
+
+  [[languages.dk.menu.main]]
+  name = "Indlæg"
+  identifier = "posts"
+  weight = 200
+  url = "/dk/posts/"
+
+  [[languages.dk.menu.main]]
+  name = "Om"
+  identifier = "about"
+  weight = 300
+  url = "/dk/about/"
+
