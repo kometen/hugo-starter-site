@@ -1,10 +1,6 @@
 baseURL = "https://gnome.no"
-languageCode = "en"
-#isMultiLingual = true
 defaultContentLanguage = "da"
 defaultContentLanguageInSubdir= true
-
-#title = "Home"
 
 # theme as hugo module
 #theme = "github.com/lxndrblz/anatole"
