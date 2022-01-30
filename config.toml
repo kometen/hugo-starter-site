@@ -1,5 +1,9 @@
 baseURL = "https://gnome.no"
 languageCode = "en"
+#isMultiLingual = true
+defaultContentLanguage = "da"
+defaultContentLanguageInSubdir= true
+
 #title = "Home"
 
 # theme as hugo module
@@ -33,55 +37,54 @@ enableRobotsTXT = true
   title = "StackOverflow"
   url = "https://stackoverflow.com/users/319826/kometen/"
 
-IsMultiLingual = true
-DefaultContentLanguage = "dk"
-
 [languages]
-  [languages.dk]
+  [languages.da]
   title = "Min blog"
   description = "Kald mig Claus"
   weight = 1
   LanguageName = "Dansk 🇩🇰"
+  contentDir = "content/danish"
 
-  [[languages.dk.menu.main]]
+  [[languages.da.menu.main]]
   name = "Hjem"
   identifier = "home"
   weight = 100
-  url = "/dk/"
+  url = "/da/"
 
-  [[languages.dk.menu.main]]
+  [[languages.da.menu.main]]
   name = "Indlæg"
   identifier = "posts"
   weight = 200
-  url = "/dk/posts/"
+  url = "/da/posts/"
 
-  [[languages.dk.menu.main]]
+  [[languages.da.menu.main]]
   name = "Om"
   identifier = "about"
   weight = 300
-  url = "/dk/about/"
+  url = "/da/about/"
 
   [languages.en]
   title = "My blog"
   description = "I am Claus"
-  weight = 2
+  weight = 10
   LanguageName = "English 🇬🇧"
+  contentDir = "content/english"
 
   [[languages.en.menu.main]]
   name = "Home"
   identifier = "home"
   weight = 100
-  url = "/"
+  url = "/en/"
 
   [[languages.en.menu.main]]
   name = "Posts"
   weight = 200
   identifier = "posts"
-  url = "/posts/"
+  url = "/en/posts/"
 
   [[languages.en.menu.main]]
   name = "About"
   weight = 300
   identifier = "about"
-  url = "/about/"
+  url = "/en/about/"
 
