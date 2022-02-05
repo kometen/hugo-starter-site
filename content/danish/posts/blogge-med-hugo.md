@@ -3,6 +3,7 @@ title: "Blogge Med Hugo"
 date: 2022-01-30T19:23:45+01:00
 draft: false
 ---
+#### Hvad er Hugo?
 
 [Hugo](https://gohugo.io/) er et værktøj til at lave websider hvor du kan publicere artikler, tanker, idéer, eller hvad som ellers ligger dig på sinde. Der findes mange temaer du kan lægge oven på, så din webside vises på den måde du ønsker.
 
@@ -18,9 +19,12 @@ Det eksempel jeg viser her bruger [Cloudflare Pages](https://pages.cloudflare.co
 
 GitHub og GitLab er virksomheder som du kan laste din kode op til, skrevet i kodeversioneringsværktøjet Git. Koden kan så gøres offentlig så andre kan se den, eller gøres privat, hvis du ikke ønsker andre skal se.
 
-### Alt tekst under dette punkt er notater jeg har skrevet undervejs, og kan dels være mangelfulde, selvmodsigende, da jeg lærte mens jeg fejlsøgte. Jeg vil rydde i dette, og håbet er at andre kan lave noget tilsvarende. Jeg brugte bla. en del tid på at lægge mulighed for at vælge mellem dansk og engelsk ind sprog ind.
+Jeg har brugt macos, men Linux, Windows, *BSD er gode alternativer. Det enkleste er hvis du åbner et terminalvindue. På macos kan programmet `Terminal` benyttes.
 
-##### Installer programmet Hugo som opretter netsider
+#### Hvordan installére Hugo?
+
+##### Installér programmet Hugo
+[Homebrew](https://brew.sh/) er et program som kan installere programmer på macos. Andre operativsystemer har tilsvarende alternativer.
 
 `brew install hugo`
 
@@ -36,21 +40,18 @@ GitHub og GitLab er virksomheder som du kan laste din kode op til, skrevet i kod
 
 `git init`
 
-Git bruges for at huske ændringer der laves i kode, samt at hente temaer (skins).
-Der findes mange temaer som findes på https://themes.gohugo.io/. Jeg har valgt
-temaet Anatole som kan ses på https://themes.gohugo.io/themes/anatole/.
+Git bruges for at huske ændringer der laves i kode, samt at hente temaer (skins). Der findes mange temaer som findes på https://themes.gohugo.io/. Jeg har valgt temaet Anatole som kan ses på https://themes.gohugo.io/themes/anatole/.
 
 ##### Temaet installeres med
 
 `git submodule add https://github.com/lxndrblz/anatole.git themes/anatole`
 
-##### Hent evt. nye ændringer til temaet med
-
-`git submodule update --remote --merge`
-
 ##### Lav den første artikel med
 
 `hugo new posts/hej-med-dig.md`
+
+
+### Alt tekst under dette punkt er notater jeg har skrevet undervejs, og kan dels være mangelfulde, selvmodsigende, da jeg lærte mens jeg fejlsøgte. Jeg vil rydde i dette, og håbet er at andre kan lave noget tilsvarende. Jeg brugte bla. en del tid på at lægge mulighed for at vælge mellem dansk og engelsk ind sprog ind.
 
 ##### Åben content/posts/hej-med-dig.md i en editor og skriv noget nederst, f.eks.
 
